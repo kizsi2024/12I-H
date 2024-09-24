@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Írd be a neved!
+Erdélyi Dániel
+=======
+Bartos Rómeó
+>>>>>>> 8bf0c2d4cafde5b9a051786b9f4ce13468110391
